@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Web Programming Sederhana</title>
+    <title></title>
 </head>
 <body>
     <div>
         <footer>
-            <a href=”http://www.RentalBuku.com”>RentalBuku</a>
+            <p><b> Follow Instagram : @ini_mra </b></P>
         </footer>
     </div>
 </body>
